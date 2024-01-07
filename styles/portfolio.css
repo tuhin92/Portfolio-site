@@ -79,6 +79,17 @@ nav a{
 }
 
 /* Main Section styles */
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+.about-info{
+    text-align: center;
+}
 
 /* About section styles */
 
